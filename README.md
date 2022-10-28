@@ -18,7 +18,7 @@
 - [x] Calculates your BMI
 - [x] Indicates your BMI level
 
-# Demonstration 📷
+# Preview 📷
 <a href="https://kaykyls.github.io/projects/bmi-calculator/"><img height="300px" width="300px" src="https://cdn.discordapp.com/attachments/766798638139179031/1035356827656929341/Animacao.gif"/></a>
 
 # Technologies
