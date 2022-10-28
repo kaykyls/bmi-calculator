@@ -16,6 +16,9 @@
 # Features
 - [x] Calculates your BMI
 - [x] Indicates your BMI level
+
+# DEMO 📷
+<img src="https://cdn.discordapp.com/attachments/766798638139179031/1035356827656929341/Animacao.gif"/>
 # Prerequisites
 
 # Executing the app
