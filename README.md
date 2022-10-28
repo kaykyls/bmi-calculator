@@ -4,6 +4,7 @@
 
 <p>
   <a href="#features">Features</a> •
+  <a href="#demonstration">Demonstration</a> •
   <a href="#prerequisites">Prerequisites</a> •
   <a href="#executing-the-app">Executing the ap</a> •
   <a href="#technologies">Technologies</a> •
