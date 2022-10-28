@@ -1,5 +1,6 @@
 # BMI Calculator
 
+<div align="center">
 <p>This app allows you to calculate your BMI based on your height and weight</p>
 
 <p>
@@ -10,6 +11,7 @@
   <a href="#technologies">Technologies</a> •
   <a href="#author">Author</a>
 </p>
+</div>
 
 ---
 
