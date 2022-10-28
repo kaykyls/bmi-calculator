@@ -11,6 +11,8 @@
   <a href="#author">Author</a>
 </p>
 
+---
+
 # Features
 
 # Prerequisites
