@@ -14,7 +14,8 @@
 ---
 
 # Features
-
+- [x] Calculates your BMI
+- [x] Indicates your BMI level
 # Prerequisites
 
 # Executing the app
