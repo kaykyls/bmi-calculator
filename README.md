@@ -27,5 +27,4 @@
 - JavaScript
 
 ---
-# Author
 Made by: kaykyls 👋 [Check out my linkedIn!](https://www.linkedin.com/in/devkayky)
