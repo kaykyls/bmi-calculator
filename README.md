@@ -25,5 +25,7 @@
 # Executing the app
 
 # Technologies
-
+-- [HTML]
+-- [CSS]
+-- [JavaScript]
 # Author
