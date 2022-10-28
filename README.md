@@ -25,7 +25,10 @@
 # Executing the app
 
 # Technologies
-- [HTML]
-- [CSS]
-- [JavaScript]
+- HTML
+- CSS
+- JavaScript
+
+---
 # Author
+Made by: kaykyls 👋 [Check out my linkedIn!](https://www.linkedin.com/in/devkayky)
