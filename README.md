@@ -1,4 +1,4 @@
-# bmi-calculator
+# BMI Calculator
 
 <p>This app allows you to calculate your BMI based on your height and weight</p>
 
