@@ -6,18 +6,23 @@
 }
 
 body{
-    background: #040924;
+    background: linear-gradient(#B8B8FF, #6e6ece);
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+}
+
+html, body{
+    height: 100%;
 }
 
 .main-bg{
     background: #fff;
     height: 400px;
     width: 400px;
-    border-radius: 6px;
+    border-radius: 16px;
     position: relative;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
 }
 
 .main-container{
@@ -37,7 +42,7 @@ body{
     display: block;
     margin: 0 auto 20px auto;
     padding: 12px 0px;
-    border-radius: 6px;
+    /* border-radius: 6px; */
     border: 1px solid #cfd4da;
     width: 100%;
 }
@@ -51,9 +56,18 @@ body{
 }
 
 .form input{
-    background: #DCE2E9;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1.5px solid #000;
+    background: #fff;
     padding-left: 20px;
     padding-right: 20px;
+}
+
+.form input:focus {
+    outline: none;
+    border-bottom: 3px solid #9381FF;
 }
 
 input::placeholder {
@@ -63,10 +77,10 @@ input::placeholder {
 
 .form-btn{
     padding: 12px 30px;
-    background: #a430ec;
-    border: 1px solid #9e20ec;
+    background: #9381FF;
+    border: 0px;
     color: #fff;
-    border-radius: 6px;
+    border-radius: 9999px;
     cursor: pointer;
     font-size: 1.2rem;
     width: 100%;
@@ -74,7 +88,7 @@ input::placeholder {
 }
 
 .form-btn:hover{
-    background: #892bc3;
+    background: #141f60;
     transition: 0.3s;
 }
 
@@ -90,7 +104,7 @@ input::placeholder {
     text-align: center;
 }
 
-.hide{
+.hidden{
     display: none;
 }
 

@@ -1,8 +1,8 @@
-export function imc(weight, height) {
+export function calculateBmi(weight, height) {
     return (Number(weight) / ((Number(height)/100) ** 2)).toFixed(2)
 }
 
-export function classification(imc) {
+export function calculateClassification(imc) {
     if(imc < 18.5){
         return "Magreza"
     } else if (imc >= 18.5 && imc < 24.9){

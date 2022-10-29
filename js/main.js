@@ -1,5 +1,5 @@
 import { modal } from "./modal.js"
-import { imc, classification } from "./utils.js"
+import { calculateBmi, calculateClassification } from "./utils.js"
 //aparentemente é mais comum modularizar objetos e funções
 
 const form = document.querySelector("form")
@@ -9,12 +9,12 @@ form.onsubmit = (event) => {
     const weight = document.querySelector("#weight").value
     const height = document.querySelector("#height").value
     if(height > 0 && weight > 0){
-        showResult(imc(weight, height))
+        showResult(calculateBmi(weight, height))
     }
 
 }
 
 function showResult(imc) {
-    modal.message.innerText = `Seu IMC é de ${imc} (${classification(imc)})`
+    modal.message.innerText = `Seu IMC é de ${imc} (${calculateClassification(imc)})`
     modal.open()
 }

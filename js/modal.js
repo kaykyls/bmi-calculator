@@ -5,17 +5,16 @@ export const modal = {
         modal.close()
     }),
     open() {
-        this.wrapper.classList.remove("hide")
+        this.wrapper.classList.remove("hidden")
     },
     close() {
-        this.wrapper.classList.add("hide")
+        this.wrapper.classList.add("hidden")
         weight.value = ""
         height.value = ""
     }
 }
 
 window.addEventListener("keydown", (event) => {
-    console.log(event.key)
     if(event.key === "Escape"){
         modal.close()
     }
