@@ -1,6 +1,5 @@
 import { modal } from "./modal.js"
 import { calculateBmi, calculateClassification } from "./utils.js"
-//aparentemente é mais comum modularizar objetos e funções
 
 const form = document.querySelector("form")
 

@@ -131,6 +131,7 @@ input::placeholder {
 @media (max-width: 410px) {
     .main-bg{
         margin: 0 10vw;
+        height: 360px;
     }
 
     .main-container{
