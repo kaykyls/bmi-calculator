@@ -16,7 +16,7 @@
 - [x] Indicates your BMI level
 
 # Preview 📷
-<a href="https://kaykyls.github.io/projects/bmi-calculator/"><img height="400px" width="400px" src="https://cdn.discordapp.com/attachments/766798638139179031/1035356827656929341/Animacao.gif"/></a>
+<a href="https://kaykyls.github.io/projects/bmi-calculator/"><img height="400px" width="400px" src="https://cdn.discordapp.com/attachments/766798638139179031/1035976342111526932/Animacao.gif"/></a>
 
 # Technologies
 - HTML
